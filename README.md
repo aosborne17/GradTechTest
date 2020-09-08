@@ -22,3 +22,4 @@ When the test passes clean up your code.
 It's worth spending time formatting and simplifing thins.
 It's more important that humans can read your code than computers.
 Software tools like `eslint` do some amazing things 🕶
+
